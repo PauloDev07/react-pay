@@ -1,0 +1,40 @@
+.user{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #38231e , #1b7800);
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.userAvatar{
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.userInfo{
+    color: white;
+    padding-left: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.payButton{
+    padding-right: 100px;
+}
+
+.payButton button{
+    font-size: 20px;
+    font-family: ui-sans-serif;
+    width: 85px;
+    height: 35px;
+    border: groove;
+    border-radius: 15px;
+}
+
+.payButton button:hover{
+    cursor: pointer;
+}
