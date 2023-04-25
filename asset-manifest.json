@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-pay/static/css/main.448efb4d.chunk.css",
+    "main.js": "/react-pay/static/js/main.7aa41b8d.chunk.js",
+    "main.js.map": "/react-pay/static/js/main.7aa41b8d.chunk.js.map",
+    "runtime-main.js": "/react-pay/static/js/runtime-main.bb3607fc.js",
+    "runtime-main.js.map": "/react-pay/static/js/runtime-main.bb3607fc.js.map",
+    "static/js/2.deb13ae7.chunk.js": "/react-pay/static/js/2.deb13ae7.chunk.js",
+    "static/js/2.deb13ae7.chunk.js.map": "/react-pay/static/js/2.deb13ae7.chunk.js.map",
+    "index.html": "/react-pay/index.html",
+    "static/css/main.448efb4d.chunk.css.map": "/react-pay/static/css/main.448efb4d.chunk.css.map",
+    "static/js/2.deb13ae7.chunk.js.LICENSE.txt": "/react-pay/static/js/2.deb13ae7.chunk.js.LICENSE.txt",
+    "static/js/main.7aa41b8d.chunk.js.LICENSE.txt": "/react-pay/static/js/main.7aa41b8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3607fc.js",
+    "static/js/2.deb13ae7.chunk.js",
+    "static/css/main.448efb4d.chunk.css",
+    "static/js/main.7aa41b8d.chunk.js"
+  ]
+}
